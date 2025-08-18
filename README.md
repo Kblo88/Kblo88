@@ -2,7 +2,10 @@
 Atualmente estudando programação na DIO, mais um pouco sobre mim:
 - 🏍️ Apaixonado por motos
 - 🖥️ Atualmente mais focado em:
+
   
+  <img width = "50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+          
   <img width = "50" height = "50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 
 ##
