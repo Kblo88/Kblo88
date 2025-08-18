@@ -1,5 +1,5 @@
 ## Olá, meu nome é Felipe
-Atualmente estudando programação na DIO, mais um pouco sobre mim:
+Atualmente estudando programação no Santander Open Academy, mais um pouco sobre mim:
 - 🏍️ Apaixonado por motos
 - 🖥️ Atualmente mais focado em:
 
