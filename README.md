@@ -1,5 +1,5 @@
 ## Olá, meu nome é Felipe
-Atualmente estudando programação no Santander Open Academy, mais um pouco sobre mim:
+Atualmente cursando ciência de dados no instituto infnet, mais um pouco sobre mim:
 - 🏍️ Apaixonado por motos
 - 🖥️ Atualmente mais focado em:
 
